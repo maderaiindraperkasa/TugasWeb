@@ -16,15 +16,3 @@ CARA PENGGUNAAN NYA.
 	pass	 : customer
 
 	lvl_user : customer
-	
-
-
-	username : supplier
-	pas	 : supplier
-
-	lvl_user : supplier
-
-
-
-
-	*goodluck :)
